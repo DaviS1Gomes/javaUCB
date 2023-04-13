@@ -4,10 +4,7 @@ package com.mycompany.calorias;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Gui
- */
+
 public class Calorias {
 
     public static void main(String[] args) {
